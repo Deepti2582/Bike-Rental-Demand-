@@ -1,15 +1,18 @@
 BIKE -RENTAL 
 
 PROBLEM STATEMENT 
+
 A US bike-sharing provider BoomBikes aspires to understand the demand for shared bikes among the people after thE ongoing quarantine situation ends across the nation due to Covid-19.
 
 BUSINESS OBJECTIVE 
+
 To understand the factors on which the demand for these shared bikes depends. Specifically, to identify the factors affecting the demand for these shared bikes in the American market. The company wants to know:
 
 (i)  Which variables are significant in predicting the demand for shared bikes.
 (ii) How well those variables describe the bike demands
 
 DATA SET
+
 day.csv is the dataset which contains 15 independent variables
 Instant: record index
 dteday: Date
