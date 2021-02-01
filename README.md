@@ -14,20 +14,35 @@ To understand the factors on which the demand for these shared bikes depends. Sp
 DATA SET
 
 day.csv is the dataset which contains 15 independent variables
+
 Instant: record index
+
 dteday: Date
+
 season: Season(1: spring , 2: summer, 3: fall , 4: winter)
-yr: Year(0:2011 , 1:2012)
+
+yr: Year
+
 mnth: (Month 1-12)
+
 holiday: whether a day is a holiday or not
+
 weekday: day of the week
+
 workingday: If a day is neither working day nor holiday then 1, otherwise 0
+
 weathersit: (weather condition, 1:Clear , 2:Mist + cloudy , 3:Light snow , 4:Heavy rain)
+
 temp: normalised temperature in celsius
+
 atemp: Normalised feeling temperature in celsius
+
 hum: Normalised humidity
+
 casual: count of casual bike users
+
 registered: count of registered bike users
+
 cnt: total number of bikes rented. This is the dependent continuous variable
 
 
