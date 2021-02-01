@@ -15,9 +15,8 @@ _DATA SET_
 
 day.csv is the dataset which contains 15 independent variables
 
--Instant: record index
-
--dteday: Date
+*Instant: record index
+*dteday: Date
 
 -season: Season(1: spring , 2: summer, 3: fall , 4: winter)
 
